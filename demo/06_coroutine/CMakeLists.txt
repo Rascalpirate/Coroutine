@@ -1,0 +1,4 @@
+add_executable(coroutine_server coroutine_server.cpp)
+add_executable(coroutine_client coroutine_client.cpp)
+add_executable(coroutine_fsm_expansion fsm_expansion.cpp)
+add_executable(coroutine_promise_type_explained promise_type_explained.cpp)
